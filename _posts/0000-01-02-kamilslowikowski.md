@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+__*Kanye in the building!*__
 Use the left arrow to go back!
